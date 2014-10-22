@@ -7,9 +7,9 @@ Package.describe({
 
 Package.onUse(function(api) {
   //api.versionsFrom('undefined');
-  api.addFiles('flanamacca:summernote-standalone.js');
-  api.addFiles('lib/summernote.min.js');
-  api.addFiles('lib/summernote.css')
+  api.addFiles('flanamacca:summernote-standalone.js', 'client');
+  api.addFiles('lib/summernote.min.js', 'client');
+  api.addFiles('lib/summernote.css', 'client')
   //api.addFiles('lib/summernote.min.js')
 });
 
