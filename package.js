@@ -1,7 +1,7 @@
 Package.describe({
   name: 'flanamacca:summernote-standalone',
-  summary: 'Summernote 0.5.1 Packaged as a standalone library (dependencies are left out)',
-  version: '1.0.1',
+  summary: 'Summernote 0.6.4 Packaged as a standalone library (dependencies are left out)',
+  version: '1.0.2',
   git: 'https://github.com/flanamacca/summernote-standalone'
 });
 

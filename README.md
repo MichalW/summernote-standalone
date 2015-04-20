@@ -1,3 +1,3 @@
-Summernote 0.5.1 Repackaged for Meteor
+Summernote 0.6.4 Repackaged for Meteor
 
 http://hackerwins.github.io/summernote/
